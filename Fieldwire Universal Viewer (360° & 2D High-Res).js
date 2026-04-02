@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Fieldwire Universal Viewer (360° & 2D High-Res)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/zhvial/UserScripts
 // @version      6.3
 // @description  Раздельная сортировка: 360 по дате, 2D по порядку на экране
 // @match        *://app.fieldwire.com/*
@@ -12,8 +12,8 @@
 // @connect      tsvabqmdcirbjnxq.s3.us-east-1.amazonaws.com
 // @connect      s3.us-east-1.amazonaws.com
 // @connect      s3.amazonaws.com
-// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Universal%20Viewer%20(360°%20&%202D%20High-Res)-6.3.js
-// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Universal%20Viewer%20(360°%20&%202D%20High-Res)-6.3.js
+// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Universal%20Viewer%20(360°%20&%202D%20High-Res).js
+// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Universal%20Viewer%20(360°%20&%202D%20High-Res).js
 // ==/UserScript==
 
 (function() {
