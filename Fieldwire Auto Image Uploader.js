@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Fieldwire Auto Image Uploader (Pro Editor v12.4)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/zhvial/UserScripts
 // @version      12.4
 // @description  Advanced canvas editor with precise inputs, smart wait, fallbacks, Circle tool, Orthogonal lines (Shift), Cloud tool, Shortcuts. Fixed key event bubbling.
 // @match        https://app.fieldwire.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Auto%20Image%20Uploader%20(Pro%20Editor%20v12.4)-12.4.js
-// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Auto%20Image%20Uploader%20(Pro%20Editor%20v12.4)-12.4.js
+// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Auto%20Image%20Uploader.js
+// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire%20Auto%20Image%20Uploader.js
 // ==/UserScript==
 
 (function() {
