@@ -6,8 +6,8 @@
 // @author       You
 // @match        *://*.lvs.lv/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/LVS%20Direct%20PDF%20Opener-1.4.js
-// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/LVS%20Direct%20PDF%20Opener-1.4.js
+// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/LVS%20Direct%20PDF%20Opener.js
+// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/LVS%20Direct%20PDF%20Opener.js
 // ==/UserScript==
 
 (function() {
