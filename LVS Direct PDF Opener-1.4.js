@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LVS Direct PDF Opener
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/zhvial/UserScripts
 // @version      1.4
 // @description  Bypass embedded PDF reader and open/download PDF directly on lvs.lv
 // @author       You
