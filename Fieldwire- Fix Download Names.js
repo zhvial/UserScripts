@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fieldwire: Fix Download Names V9.1 (.msg Fix)
-// @namespace    http://tampermonkey.net/
-// @version      9.1
+// @namespace    https://github.com/zhvial/UserScripts
+// @version      9.11
 // @description  Deep intercept + MIME type fix for .msg files
 // @author       You
 // @match        *://app.fieldwire.com/*
