@@ -8,8 +8,8 @@
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
 // @connect      files.us.fieldwire.com
-// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire-%20Fix%20Download%20Names%20V9.1%20(.msg%20Fix)-9.1.js
-// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire-%20Fix%20Download%20Names%20V9.1%20(.msg%20Fix)-9.1.js
+// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire-%20Fix%20Download%20Names%20V9.1%20(.msg%20Fix).js
+// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/Fieldwire-%20Fix%20Download%20Names%20V9.1%20(.msg%20Fix).js
 // ==/UserScript==
 
 (function() {
