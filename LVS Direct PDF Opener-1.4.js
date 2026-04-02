@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LVS Direct PDF Opener
 // @namespace    https://github.com/zhvial/UserScripts
-// @version      1.4
+// @version      1.41
 // @description  Bypass embedded PDF reader and open/download PDF directly on lvs.lv
 // @author       You
 // @match        *://*.lvs.lv/*
