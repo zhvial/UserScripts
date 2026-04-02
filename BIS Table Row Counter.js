@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         BIS Table Row Counter
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/zhvial/UserScripts
 // @version      1.1
 // @description  Saskaita BIS tabulas rindas un pievieno tās esošajam Fieldwire indikatoram
 // @author       Tavs Vārds
 // @match        https://bis.gov.lv/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS%20Table%20Row%20Counter-1.1.js
-// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS%20Table%20Row%20Counter-1.1.js
+// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS%20Table%20Row%20Counter.js
+// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS%20Table%20Row%20Counter.js
 // ==/UserScript==
 
 (function() {
