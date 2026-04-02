@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BIS↔Fieldwire Linker
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/zhvial/UserScripts
 // @version      4.2
 // @description  BIS #NNNN → Fieldwire task link. Sync task map, command tab, highlight active task.
 // @author       Claude (Modified)
@@ -12,8 +12,8 @@
 // @grant        GM_registerMenuCommand
 // @grant        unsafeWindow
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS↔Fieldwire%20Linker-4.2.js
-// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS↔Fieldwire%20Linker-4.2.js
+// @updateURL    https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS↔Fieldwire%20Linker.js
+// @downloadURL  https://raw.githubusercontent.com/zhvial/UserScripts/main/BIS↔Fieldwire%20Linker.js
 // ==/UserScript==
 
 (function() {
